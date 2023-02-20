@@ -40,9 +40,9 @@ also, we discussed so basic CLI commands such as :
  
  for more commands [check this website](https://www.plesk.com/blog/various/git-commands-cheat-sheet/) 
 
-## git and github 
+#### git and github 
 
-### VCS : is version control system 
+#### VCS : is version control system 
 
 git is a local VCS and it's vary useful because it will able the programmer to :
 - backup and recovery 
@@ -50,7 +50,7 @@ git is a local VCS and it's vary useful because it will able the programmer to :
 - tracking changes
 - branching and merging
 
-## ACP cycle 
+#### ACP cycle 
 this is the method to link git and github repo 
 1. git clone SSH link
 2. Make your updates
@@ -58,7 +58,7 @@ this is the method to link git and github repo
 4. git commit -m"type a description"
 5. git push origin main
 
-## Markdown language 
+#### Markdown language 
 for Basic Syntax [Markdown guide](https://www.markdownguide.org/basic-syntax/#html)
 
 
