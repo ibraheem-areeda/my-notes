@@ -1,12 +1,11 @@
 
 # my-notes
 
-*assignment for Lab 01*
 
 # **introduction about myself**
 
 My name is Ibraheem Areeda , I am Former architect, now learning web development. Enrolled in a bootcamp to learn HTML, CSS, JavaScript, and Python. Excited to collaborate, gain experience, and contribute to meaningful projects. Ready to learn and grow as a web developer! 
-
+ 
 # good developer mindset.
  
  The article discusses the fundamentals of a good developer mindset. The author begins by noting that becoming a good developer requires more than just learning technical skills. They argue that a good developer mindset involves a number of habits and attitudes that can be developed over time. Some of the key points made in the article include:
@@ -19,9 +18,50 @@ My name is Ibraheem Areeda , I am Former architect, now learning web development
 
 Overall, the article offers a useful introduction to the habits and attitudes that can help developers succeed. By embracing a growth mindset, prioritizing learning, focusing on problem-solving, collaborating with others, and keeping an open mind, developers can develop the skills and mindset they need to excel in their work.
 
+**click** on the [link](https://www.freecodecamp.org/news/learn-the-fundamentals-of-a-good-developer-mindset-in-15-minutes-81321ab8a682/) *to read full article* 
+
 
 
 # today's lecture.
+
+In the lecture's beginning, we discussed the two different ways to interact with a computer system.
+- **GUI** (Graphical User Interface) 
+- **CLI** (Command Line Interface), 
+
+
+GUI is easy to use and user friendly 
+
+CLI is hard to master but can do multi-tasking that's why developers use it.
+also, we discussed so basic CLI commands such as :
+- pwd : print working directory 
+- mkdir : make directory 
+- cd  : change directory 
+- ls : list 
+ 
+ for more commands [check this website](https://www.plesk.com/blog/various/git-commands-cheat-sheet/) 
+
+## git and github 
+
+### VCS : is version control system 
+
+git is a local VCS and it's vary useful because it will able the programmer to :
+- backup and recovery 
+- collaboration team members 
+- tracking changes
+- branching and merging
+
+## ACP cycle 
+this is the method to link git and github repo 
+1. git clone SSH link
+2. Make your updates
+3. git add .
+4. git commit -m"type a description"
+5. git push origin main
+
+## Markdown language 
+for Basic Syntax [Markdown guide](https://www.markdownguide.org/basic-syntax/#html)
+
+
 
 
 
