@@ -1,5 +1,5 @@
 
-# my-notes
+# prep course notes
 
 
 # **introduction about myself**
